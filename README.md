@@ -6,7 +6,7 @@
 
 ## 環境構築
 ・Dockerビルド
-1.git clone 
+1.git clone git@github.com:qurow403/test3-.git
 2.docker-compose up -d
 
 ・Laravel環境構築
